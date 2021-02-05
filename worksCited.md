@@ -20,5 +20,5 @@ Date accessed: Jan 20, 2021
 [Monster Generator](https://www.codota.com/code/java/classes/com.jadventure.game.monsters.Goblin）
 Date accessed: Feb 2, 2021
 
-[Hunt the monster](https://www.codota.com/code/java/classes/com.jadventure.game.monsters.Goblin）
+[Hunt the monster](https://github.com/do-i/hunt-the-monster/blob/master/src/main/java/org/djd/fun/huntthemonster/Game.java）
 Date accessed: Feb 2, 2021

@@ -16,3 +16,9 @@ When making a citation, include the resource title, URL, and date of access. Use
 
 [Java If ... Else](https://www.w3schools.com/java/java_conditions.asp)
 Date accessed: Jan 20, 2021
+
+[Monster Generator](https://www.codota.com/code/java/classes/com.jadventure.game.monsters.Goblin）
+Date accessed: Feb 2, 2021
+
+[Hunt the monster](https://www.codota.com/code/java/classes/com.jadventure.game.monsters.Goblin）
+Date accessed: Feb 2, 2021

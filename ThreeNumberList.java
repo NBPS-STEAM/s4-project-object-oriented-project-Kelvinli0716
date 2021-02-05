@@ -19,9 +19,9 @@ public class ThreeNumberList{
 
 /*
      * Constructor for ThreeNumberList class that initialize the number1, number2, and number3 with the parameter inputted. 
-     * @param number1 accepts int for the initialization of the number1 of the ThreeNumberList
-     * @param number2 accepts int for the initialization of the number2 of the ThreeNumberList
-     * @param number3 accepts int for the initialization of the number3 of the ThreeNumberList
+     number1 accepts int for the initialization of the number1 of the ThreeNumberList
+     number2 accepts int for the initialization of the number2 of the ThreeNumberList
+     number3 accepts int for the initialization of the number3 of the ThreeNumberList
      
     */
   public ThreeNumberList(int number1, int number2, int number3){

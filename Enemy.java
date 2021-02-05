@@ -24,10 +24,10 @@ public class Enemy{
 
   /*
      * Constructor for Enemy class that initialize the health, attack, name, and weapon with the parameter inputted. 
-     * @param health accepts int for the initialization of the health of the enemy
-     * @param name accepts String for the initialization of the name of the enemy
-     * @param attack accepts int for the initialization of the attack of the enemy
-     * @param weapon accepts String for the initialization of the weapon of the enemy
+     * health accepts int for the initialization of the health of the enemy
+     * name accepts String for the initialization of the name of the enemy
+     * attack accepts int for the initialization of the attack of the enemy
+     * weapon accepts String for the initialization of the weapon of the enemy
     */
     
   public Enemy(int health, String name, int attack, String weapon){

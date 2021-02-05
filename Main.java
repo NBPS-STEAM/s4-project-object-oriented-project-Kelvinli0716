@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-    Enemy monster1 = new Enemy(20, "wpj",  1, "sword");
+    Enemy monster1 = new Enemy(20, "Kelvin Li",  1, "sword");
     System.out.println("The name of Monster 1 is " + monster1.getName() + ".");
 
     System.out.println();

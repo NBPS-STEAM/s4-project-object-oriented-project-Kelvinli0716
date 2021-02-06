@@ -7,11 +7,13 @@ public class ThreeNumberList{
   private int number2; 
   private int number3; 
   public static int numOfList = 0; 
-
+  //private Enemy[] hord = new Enemy[3];
 
   //constructor 
   //Constructor for ThreeNumberList class that initialize the default value of all three number in the ThreeNumberList to 0.
   public ThreeNumberList(){
+
+
       number1 = 0;
       number2 = 0;
       number3 = 0; 

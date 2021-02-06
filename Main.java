@@ -3,6 +3,8 @@ public class Main {
     Enemy monster1 = new Enemy(20, "Kelvin Li",  1, "sword");
     System.out.println("The name of Monster 1 is " + monster1.getName() + ".");
 
+    
+
     System.out.println();
     System.out.println("Current number of list is " + ThreeNumberList.getnumOfList() + "."); 
     ThreeNumberList list1 = new ThreeNumberList(250, 38, 0); 

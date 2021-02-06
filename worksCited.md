@@ -22,3 +22,9 @@ Date accessed: Feb 2, 2021
 
 [Hunt the monster](https://github.com/do-i/hunt-the-monster/blob/master/src/main/java/org/djd/fun/huntthemonster/Game.java）
 Date accessed: Feb 2, 2021
+
+[Java Convert String to int examples](https://beginnersbook.com/2013/12/how-to-convert-string-to-int-in-java/）
+Date accessed: Feb 4, 2021
+
+[Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/）
+Date accessed: Feb 6, 2021

@@ -3,8 +3,6 @@ public class Main
 {   
     public static void main(String[] args)
     {
-        //reference: https://www.geeksforgeeks.org/arrays-in-java/
-        //https://beginnersbook.com/2013/12/how-to-convert-string-to-int-in-java/
 
         //list of monsters
         Monster[] listOfMonsters = new Monster[3];

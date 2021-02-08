@@ -5,9 +5,9 @@ public class Score{
 
     //instance variables
     //score: scores will be updated for every question the user completed
-    public static int score = 0;
+    private static int score = 0;
     //best score: user's will know if the score they received on this try is their best score
-    public static int bestScore = 0;
+    private static int bestScore = 0;
 
     //methods
     //addScore: score will be increment by 1 if the user answered the question correctly
